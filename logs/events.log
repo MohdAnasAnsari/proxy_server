@@ -1,0 +1,39 @@
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - request recieved here is: {'headers': {'Authorization': 'valid_token'}}
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - request recieved here is: {'headers': {'Authorization': 'valid_token'}}
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - INFO - Request processing failed: 'dict' object has no attribute 'headers'
+root - ERROR - An error occurred: name 'log_error' is not defined
+root - ERROR - An error occurred: name 'log_error' is not defined
+root - ERROR - An error occurred while processing the request: name 'validate_token' is not defined
+root - INFO - {'status': 'error', 'message': "name 'validate_token' is not defined"}
+root - ERROR - An error occurred while processing the request: string indices must be integers, not 'str'
+root - INFO - {'status': 'error', 'message': "string indices must be integers, not 'str'"}
+root - ERROR - An error occurred while processing the request: 'NoneType' object is not subscriptable
+root - INFO - {'status': 'error', 'message': "'NoneType' object is not subscriptable"}
+root - ERROR - An error occurred while processing the request: 'NoneType' object is not subscriptable
+root - INFO - {'status': 'error', 'message': "'NoneType' object is not subscriptable"}
+root - ERROR - An error occurred while processing the request: 'NoneType' object is not subscriptable
+root - INFO - {'status': 'error', 'message': "'NoneType' object is not subscriptable"}
+root - ERROR - An error occurred while processing the request: 'NoneType' object is not subscriptable
+root - INFO - {'status': 'error', 'message': "'NoneType' object is not subscriptable"}
+root - ERROR - An error occurred while processing the request: string indices must be integers, not 'str'
+root - INFO - {'status': 'error', 'message': "string indices must be integers, not 'str'"}
+root - INFO - {'status': 'success', 'message': 'Request processed successfully'}
+root - INFO - {'status': 'success', 'message': 'Request processed successfully'}
+root - INFO - {'status': 'success', 'message': 'Request processed successfully'}
+root - ERROR - An error occurred: 'function' object has no attribute 'get'
+root - ERROR - An error occurred: 'function' object has no attribute 'get'
+root - ERROR - An error occurred: 'function' object has no attribute 'get'
+root - ERROR - An error occurred: logging_middleware() missing 1 required positional argument: 'response'
+root - INFO - Request received: {'headers': {'Authorization': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiZXhwIjoxNzIzOTk4MzgyfQ.6DmziUgjEsJxSDi_v-Ds08TS7DUaH5PmGNFTd-4lzgo'}}
+root - INFO - Response sent: {'status': 'success', 'message': 'Request processed successfully'}
+root - INFO - {'status': 'success', 'message': 'Request processed successfully'}
+root - INFO - Request received: {'headers': {'Authorization': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiZXhwIjoxNzIzOTk4NDgzfQ.9hF7500W_LTSy2KM3GdXRe8eNpyKmmMoauOP_ux8VNc'}}
+root - INFO - Response sent: {'status': 'success', 'message': 'Request processed successfully'}
+root - INFO - {'status': 'success', 'message': 'Request processed successfully'}
