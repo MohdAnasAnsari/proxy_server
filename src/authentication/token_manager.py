@@ -1,5 +1,4 @@
 # src/authentication/token_manager.py
-# token:  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiZXhwIjoxNzIzOTg4NDUyfQ.xh7nO5s03IvGPZOOfI_HuOT1gf2KgpM2OP06tdsNXkg"
 
 
 from .auth_methods import generate_jwt_token, decode_jwt_token

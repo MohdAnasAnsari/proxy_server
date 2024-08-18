@@ -1,5 +1,4 @@
 # src/authentication/auth_methods.py
-# token:  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiZXhwIjoxNzIzOTg4NDUyfQ.xh7nO5s03IvGPZOOfI_HuOT1gf2KgpM2OP06tdsNXkg"
 
 import hashlib
 import jwt
